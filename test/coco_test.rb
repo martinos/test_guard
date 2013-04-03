@@ -1,1 +1,1 @@
-puts "This file has changed"
+puts 'Please change coco_test.rb file'
