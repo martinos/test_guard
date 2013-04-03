@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rb-fsevent'
+gem 'guard-test'
+gem 'guard'
+gem 'growl'
